@@ -86,7 +86,7 @@ class font_patcher:
                         symfont.close()
                         symfont = None
                     print(symfont)
-                    symfont = fontforge.open(__dir__ + "/src/glyphs/" + patch['Filename'])
+                    symfont = fontforge.open(__dir__ + patch['Filename'])
 
                     # Match the symbol font size to the source font size
                     symfont.em = self.sourceFont.em
