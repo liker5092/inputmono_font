@@ -1,3 +1,10 @@
+
+pather
+
+https://github.com/ryanoasis/nerd-fonts
+
+https://input.fontbureau.com/
+
 # inputmono_font
 
 本字体使用 inputmononarrow的等宽字体为源本,增加了POWERLINE和awesome的图形
